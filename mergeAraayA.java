@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class mergeSort{
+public class mergeAraayA{
     static void merge(int []a,int []b,int []c){
         int n1=a.length,n2=b.length,i,j,k;
 
